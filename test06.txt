@@ -1,0 +1,4 @@
+Programming: 100(h) 50(p) 20(l)
+Physics: 30(h) — 10(l)
+Literature: 50(h) 30(p) —
+Music: 20(h) 20(p) —

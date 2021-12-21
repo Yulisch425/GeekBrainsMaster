@@ -1,0 +1,4 @@
+Lopez:12000
+Suarez:20010
+Bashirova:21900
+Alegre:15000
